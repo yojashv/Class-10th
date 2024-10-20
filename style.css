@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.top{
+  color: white;
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.top{
+  position: sticky;
+  top: 0px;
+}
+
+.butt{
+  margin-top: 7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: yellow;
+}
+.butto{
+  margin-top: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: skyblue;
+}
+.but{
+  margin-top: 7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: cornflowerblue;
+}
+.bu{
+  margin-top: 7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: greenyellow;
+}
+.b{
+  margin-top: 7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: palegreen;
+}
+.welcome{
+  margin-top: 10pc;
+  font-size:50px;
+  display: flex;
+  justify-content: center;
+  color: orange;
+}
+.ico{
+  font-size: 50px;
+  color: white;
+  display: inline;
+}
+.main{
+  display: flex;
+  margin-top: 20px;
+}
+.top{
+  margin-left: 5.7pc;
+}
+.ico a{
+  color: white;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.house a{
+  font-size: 50px;
+  color: white;
+  margin-left: 90px;
+  margin-top: 20px;
+}
+.i{
+  font-size: 60px;
+  color: red;
+  display: inline;
+}
+.ic{
+  font-size: 60px;
+  color: white;
+  display: inline;
+  margin-left: 90px;
+}
+.icon{
+  font-size: 60px;
+  color: white;
+  display: inline;
+  margin-left: 90px;
+}
+.tomain{
+  margin-top: 42pc;
+  margin-left: 30%;
+}
+.main{
+  position: sticky;
+  top: 0px;
+}
+.tomain i{
+  color: white;
+}
+.made{
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  height: 38px;
+}
+.butto:hover{
+  scale: 1.2;
+  transition: 1s;
+}
+.butt:hover{
+  scale: 1.2;
+  transition: 1s;
+}
+.but:hover{
+  scale: 1.2;
+  transition: 1s;
+}
+.bu:hover{
+  scale: 1.2;
+  transition: 1s;
+}
+.b:hover{
+  scale: 1.2;
+  transition: 1s;
+}
+body{
+  background-image: url(ba.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
